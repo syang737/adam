@@ -1,0 +1,50 @@
+{
+  "merchants": [
+    {"available": true, "categories": ["Burritos", "Fast Food", "Mexican"], "eta": "10 min", "id": 1,
+     "items": [
+       {"id": 1, "item_id": "7ed05077-975a-5813-8a72-ecb0b2c87094", "name": "Crunchwrap Supreme®", "price": "$9.75"},
+       {"id": 2, "item_id": "e14bc5db-0ead-599e-8b3b-ce43c22cb6e8", "name": "Crunchwrap Supreme® Combo", "price": "$15.36"},
+       {"id": 3, "item_id": "0632f469-ca80-5cf9-a764-a96d6339cec3", "name": "Black Bean Crunchwrap Supreme®", "price": "$9.30"},
+       {"id": 4, "item_id": "17b875f3-5594-5d78-9c0c-a59a5821ff92", "name": "Cantina Chicken Burrito Combo", "price": "$16.02"},
+       {"id": 5, "item_id": "23c29e04-4731-579f-9472-d9f5d67020dc", "name": "Burrito Supreme®", "price": "$8.89"}
+     ],
+     "name": "Taco Bell (2090 Seventh Avenue)", "promo": {"promo_type": "FREE_ITEM", "text": "Free item on $20+"},
+     "rating": 4.647267355982274, "rating_count": "900+", "slug": "taco-bell-2090-seventh-avenue", "store_id": "2c3ec3a7-0bf7-5e84-a26a-95ac9d09de50"},
+    {"available": true, "categories": ["Mexican", "Fast Food", "Tacos", "Breakfast and Brunch"], "eta": "14 min", "id": 2,
+     "items": [
+       {"id": 1, "item_id": "dd544f65-ca78-551e-a07b-4ef1450b8762", "name": "Crunchwrap Supreme®", "price": "$10.85"},
+       {"id": 2, "item_id": "91c7f88d-b9ba-5935-a580-d66498cb1886", "name": "Crunchwrap Supreme® Combo", "price": "$16.09"},
+       {"id": 3, "item_id": "96925e6d-97c5-5c78-a893-9902e5a64ae9", "name": "Black Bean Crunchwrap Supreme®", "price": "$9.99"},
+       {"id": 4, "item_id": "7816cb16-a5bb-59f9-b1b5-08833ee94dbe", "name": "Cantina Chicken Burrito Combo", "price": "$10.41"},
+       {"id": 5, "item_id": "ab2a4f71-6707-5a83-a0ac-ed48d62e21bd", "name": "Burrito Supreme®", "price": "$9.75"}
+     ],
+     "name": "Taco Bell (161 East 125th Street)", "promo": {"promo_type": "FREE_ITEM", "text": "Free item on $20+"},
+     "rating": 4.46308513980522, "rating_count": "7,000+", "slug": "taco-bell-161-east-125th-street", "store_id": "94d26ab6-f301-44b4-a96a-df9879302a59"},
+    {"available": true, "categories": ["Mexican", "Burritos", "Fast Food", "Tacos", "Breakfast and Brunch"], "eta": "13 min", "id": 3,
+     "items": [
+       {"id": 1, "item_id": "63ad7f1a-a3c4-5f60-8a4a-73a062a7f064", "name": "Crunchwrap Supreme®", "price": "$9.75"},
+       {"id": 2, "item_id": "e42d545b-e9b0-54e3-8727-e0506134d5b3", "name": "Crunchwrap Supreme® Combo", "price": "$15.36"},
+       {"id": 3, "item_id": "137e7970-252e-5ecd-a591-3d7840fbd45c", "name": "Black Bean Crunchwrap Supreme®", "price": "$9.30"},
+       {"id": 4, "item_id": "eab36708-4be0-5d96-8ad3-20f4397460f1", "name": "Cantina Chicken Burrito Combo", "price": "$16.02"},
+       {"id": 5, "item_id": "9ecee4a0-037c-5854-aab5-1ba22db6d1e2", "name": "Burrito Supreme®", "price": "$8.89"}
+     ],
+     "name": "Taco Bell (3427 Broadway)", "promo": {"promo_type": "FREE_ITEM", "text": "Free item on $20+"},
+     "rating": 4.683781147468299, "rating_count": "7,000+", "slug": "taco-bell-3427-broadway", "store_id": "f9e78e75-6d8b-56a1-8ef0-c5c17f4ca653"},
+    {"available": true, "categories": ["Burritos", "Fast Food", "Mexican"], "eta": "14 min", "id": 4,
+     "items": [
+       {"id": 1, "item_id": "3a5efad6-fc93-5f3a-a28e-bbf793467c0f", "name": "Crunchwrap Supreme®", "price": "$10.85"},
+       {"id": 2, "item_id": "8526fffe-f5cf-54d5-8e80-cdfaf8c72b59", "name": "Black Bean Crunchwrap Supreme®", "price": "$9.99"},
+       {"id": 3, "item_id": "2d10b364-986f-5af2-82aa-9f9b183e6177", "name": "Crunchwrap Supreme® Combo", "price": "$16.09"},
+       {"id": 4, "item_id": "00e07592-d2d6-5419-a5ed-1580722c847b", "name": "Cantina Chicken Burrito Combo", "price": "$14.87"},
+       {"id": 5, "item_id": "39f38052-e4c1-5698-8e0f-6f19611957c7", "name": "Burrito Supreme®", "price": "$9.75"}
+     ],
+     "name": "Taco Bell (2818 Broadway)", "promo": {"promo_type": "FREE_ITEM", "text": "Free item on $20+"},
+     "rating": 4.6207473508087, "rating_count": "220+", "slug": "taco-bell-2818-broadway", "store_id": "b942edcd-9da8-5f5a-a447-59551f731ff9"},
+    {"available": true, "categories": ["American", "Fast Food", "wings", "Fried Chicken", "Chicken", "Waffles"], "eta": "10 min", "id": 5,
+     "items": null,
+     "name": "KFC (203 W 125th Street)", "promo": {"promo_type": "BOGO", "text": "Buy 1, get 1"},
+     "rating": 4.248880597014922, "rating_count": "5,000+", "slug": "kfc-203-w-125th-street", "store_id": "4973c91a-4b35-50d8-831c-004e10fa1894"}
+  ],
+  "metadata": {"full_address": "W 125th St & Frederick Douglass Blvd, New York, NY 10027, USA", "intent": "Find price of Crunchwrap Supreme at nearby Taco Bells", "query": "Taco Bell Crunchwrap Supreme", "user_uuid": ""},
+  "search_metadata": {"has_more": true, "limit": 5, "offset": 0}
+}

@@ -1,0 +1,49 @@
+{
+  "merchants": [
+    {"available": true, "categories": ["Mexican", "Burritos", "Fast Food", "Tacos", "Breakfast and Brunch"], "eta": "10 min", "id": 1,
+     "items": [
+       {"id": 1, "item_id": "0f7af349-b2f1-5053-a96c-f4e273f15e2b", "name": "Crunchwrap Supreme®", "price": "$10.48"},
+       {"id": 2, "item_id": "61a4ce50-f814-55f5-ba8f-389d92de89a9", "name": "Crunchwrap Supreme® Combo", "price": "$15.60"},
+       {"id": 3, "item_id": "edaec67b-140c-52a7-ba0b-c62d1850ae6e", "name": "Black Bean Crunchwrap Supreme®", "price": "$9.63"},
+       {"id": 4, "item_id": "cd8b6471-60a3-5aab-b066-5696a3af6399", "name": "Cantina Chicken Burrito Combo", "price": "$14.51"},
+       {"id": 5, "item_id": "841a8a33-1fc6-5076-b2ab-2efe946182a8", "name": "Burrito Supreme®", "price": "$9.38"}
+     ],
+     "name": "Taco Bell (1501 Broadway Suite #7)", "promo": {"promo_type": "FREE_ITEM", "text": "Free item on $20+"},
+     "rating": 4.550579322638135, "rating_count": "3,000+", "slug": "taco-bell-1501-broadway-suite-%237", "store_id": "d48d6f92-d9dc-44b2-9fd1-2e795bd25873"},
+    {"available": true, "categories": ["Mexican", "Burritos", "Fast Food", "Tacos", "Breakfast and Brunch"], "eta": "20 min", "id": 2,
+     "items": [
+       {"id": 1, "item_id": "27f4751a-775b-581b-9a6b-f8a6090bd9e0", "name": "Crunchwrap Supreme®", "price": "$9.75"},
+       {"id": 2, "item_id": "2eec2623-e69e-5679-9365-7415ab621dad", "name": "Black Bean Crunchwrap Supreme®", "price": "$9.75"},
+       {"id": 3, "item_id": "13137f3b-5506-599f-97eb-ff74f111f7f6", "name": "Crunchwrap Supreme® Combo", "price": "$14.63"},
+       {"id": 4, "item_id": "b84f6d1b-dd65-5452-81b1-3f148c952986", "name": "Cantina Chicken Burrito Combo", "price": "$14.51"},
+       {"id": 5, "item_id": "220b08df-3595-50d5-9bda-45dbd5f4846b", "name": "Burrito Supreme®", "price": "$8.41"}
+     ],
+     "name": "Taco Bell (976 6th Avenue)", "promo": {"promo_type": "FREE_ITEM", "text": "Free item on $20+"},
+     "rating": 4.653106682297767, "rating_count": "6,000+", "slug": "taco-bell-976-6th-avenue", "store_id": "08b59a28-09e3-4900-8e43-f8f58c97ac6b"},
+    {"available": true, "categories": ["Mexican", "Burritos", "Tacos", "Breakfast and Brunch"], "eta": "15 min", "id": 3,
+     "items": [
+       {"id": 1, "item_id": "e2fa1d42-6224-5266-b765-6625ac938198", "name": "Crunchwrap Supreme®", "price": "$10.97"},
+       {"id": 2, "item_id": "97fbfa33-68e5-59e4-928f-680a5be13039", "name": "Crunchy Taco", "price": "$3.40"},
+       {"id": 3, "item_id": "e82827dd-5b4e-53c3-97ad-eb2a8008d90c", "name": "Crunchy Taco Supreme®", "price": "$4.87"},
+       {"id": 4, "item_id": "811b5e1c-ea5e-5680-ab93-7b8eb4b33c85", "name": "Crunchwrap Supreme® Combo", "price": "$15.12"},
+       {"id": 5, "item_id": "5b244771-f57c-55df-b9c2-7aa447f8f2e5", "name": "Doritos® Cheesy Gordita Crunch - Nacho Cheese", "price": "$9.50"}
+     ],
+     "name": "Taco Bell (500 8th Avenue)", "promo": {"promo_type": "FREE_ITEM", "text": "Free item on $20+"},
+     "rating": 4.62453392990306, "rating_count": "6,000+", "slug": "taco-bell-500-8th-avenue", "store_id": "e571314a-da34-4d54-acec-1950c2998f83"},
+    {"available": true, "categories": ["Mexican", "Latin American", "New Mexican", "Group Friendly", "Alcohol"], "eta": "20 min", "id": 4,
+     "items": [
+       {"id": 1, "item_id": "ec67b3aa-e2da-5416-a781-61492ddbf79a", "name": "Beef Carne Asada Naked Burrito", "price": "$19.50"},
+       {"id": 2, "item_id": "dd9463b5-3b41-54de-8a80-4efa5099cba7", "name": "Beef Desmenuzado Naked Burrito", "price": "$19.50"},
+       {"id": 3, "item_id": "8c23bb75-d432-5acd-8459-61bccb0651fd", "name": "Beef Desmenuzado Burrito", "price": "$19.50"},
+       {"id": 4, "item_id": "364cef76-6323-5361-bb90-cb05fde33992", "name": "Chicken Desmenuzado Burrito", "price": "$17.50"},
+       {"id": 5, "item_id": "fae3ca03-3443-5d9e-be77-1c35c10c45f9", "name": "Beef Carne Asada Burrito", "price": "$19.50"}
+     ],
+     "name": "Maiz", "rating": 4.759142857142862, "rating_count": "3,000+", "slug": "maiz", "store_id": "a4a52500-3e18-4eb1-9b01-7354a22960f0"},
+    {"available": true, "categories": ["Burgers", "American", "Sandwiches", "Breakfast and Brunch", "New American", "Fast Food"], "eta": "13 min", "id": 5,
+     "items": null,
+     "name": "Golden Griddle Pancakes (765 8th Ave)", "promo": {"promo_type": "FLAT", "text": "$4 off $25+"},
+     "rating": 0, "rating_count": "", "slug": "golden-griddle-pancakes-765-8th-ave", "store_id": "6873f643-965e-5c2c-88b7-621086a2dfad"}
+  ],
+  "metadata": {"full_address": "W 45th St & 7th Ave, New York, NY 10036, USA", "intent": "Find price of Crunchwrap Supreme at nearby Taco Bells", "query": "Taco Bell Crunchwrap Supreme", "user_uuid": ""},
+  "search_metadata": {"has_more": true, "limit": 5, "offset": 0}
+}
